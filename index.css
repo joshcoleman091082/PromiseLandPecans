@@ -8,3 +8,7 @@ color: white;
 h1.cursive {
 font-family:  Britannic bold, Florece, cursive;
 font-weight: bolder
+
+img {
+float: right
+}
