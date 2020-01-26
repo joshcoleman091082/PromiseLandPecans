@@ -1,5 +1,5 @@
-#head{
+h1 {
 padding: 30px;
-background-image:img src="images/pecans3.jpg"
-color:white;
+background-image:img src="images/pecans3.jpg"; 
+text-align: center;color:white;
 }
