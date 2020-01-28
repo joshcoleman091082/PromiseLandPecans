@@ -16,8 +16,9 @@ text-decoration:none;
 
 .logo1{
 height: 250px;
-width: 300px;
+width: 600px;
 float:middle;
+font-size: 150%;
 }
 a:hover{
 color:blue;
@@ -62,6 +63,7 @@ down: 50px;
 p{
 color:white;
 text-decoration:none;
+font-size: 120%;
 }
 
 .pecan1{
