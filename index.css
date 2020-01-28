@@ -1,49 +1,47 @@
+ 
+/*<div id="sample"></div>
+#sample{};
 
+<div></div>
+<p class="first"><p>
+.first{*/
 
-body {
-background-image: url("images/barn1.jpg");
-background-color: #cccccc; /* Used if the image is unavailable */
-  height: 2010px; /* You must set a specified height */
-  background-position: center; /* Center the image */
-  background-repeat: no-repeat; /* Do not repeat the image */
-  background-size: contain; /* Resize the background image to cover the entire container */
+body{
+background-color: grey;
 }
 
-h1{ 
-padding: 30px;
-background-color: tan; 
+.cursive{
+font-weight: bold ;
+padding: 50px;
+background-image: url("images/barn1.jpg");
+background-size: contain;
+background-color: tan;  
+text-align: center; 
+color: white;
+font-size: 400%;
+border-style:ridge;
+border-width: 20px;
+background-position: center; /* Center the image */
+background-repeat: no-repeat; /* Do not repeat the image */
+left:150px;
+down: 20px;
+
+}
+
+h1{
+font-weight:  ;
+padding: 50px;
+background-size: contain;
+background-color: tan;  
 text-align: center; 
 color: white;
 font-size: 200%;
+border-style:ridge;
+border-width: 10px;
+background-position: center; /* Center the image */
+left:200px;
+down: 50px;
 }
-
-
-h1.cursive{ 
-font-family:  Britannic bold, Florece, cursive;
-font-weight: bolder;font-size: x-large;
-padding: 50px;
-background-color: tan; 
-text-align: center; 
-color: white;
-font-size: 500%;
+p{
+color:white;
 }
-
-
-.logo img{ 
-float: right;
-padding: 10px; borer-style: solid; border-width: 2px; 
-width 90px; height 90px;
-}
-
-
-.logo2 p{
-color: white;
-}
-
-
-logo1 img{ 
-float: left;
-padding: 10px; borer-style: solid; border-width: 2px; 
-width 90px; height 90px;
-}
-
