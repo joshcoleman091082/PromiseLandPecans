@@ -67,6 +67,7 @@ font-size: 120%;
 }
 
 .pecan1{
+position: static;
 float: left;
 }
 
@@ -78,7 +79,7 @@ top:30px; right:30px;bottom:30px; left:30px;
 }
 
 #pecan3{
-
+position: static;
 height: 250px;
 width: 300px;
 float:right;
@@ -87,6 +88,6 @@ float:right;
 .logo15{
 height: 250px;
 width: 600px;
-
+position: static;
 font-size: 150%;
 }
