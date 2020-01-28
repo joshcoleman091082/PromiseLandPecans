@@ -9,17 +9,45 @@
 body{
 background-color: grey;
 }
-a:link{
-color:white;
-text-decoration:none;
+.logo10{
+height: 250px;
+width: 300px;
+float:right;
+top:30px; right:30px;bottom:30px; left:30px;
 }
-
+#pecan3{
+position: static;
+height: 250px;
+width: 300px;
+float:right;
+}
+.pecan1{
+position: static;
+float: left;
+}
 .logo15{
 height: 250px;
 width: 600px;
 position: static;
 font-size: 150%;
 }
+a:link{
+color:white;
+text-decoration:none;
+}
+a:hover{
+color:blue;
+text-decoration: none;
+}
+.logo{
+height: 250px;
+float: left;
+}
+.logo2{
+float:right;
+}
+
+
 
 .logo1{
 height: 250px;
@@ -27,15 +55,9 @@ width: 600px;
 float:middle;
 font-size: 150%;
 }
-a:hover{
-color:blue;
-text-decoration: none;
-}
 
-.logo{
-height: 250px;
-float: left;
-}
+
+
 .cursive{
 font-weight: bold;
 padding: 50px;
@@ -72,24 +94,12 @@ color:white;
 text-decoration:none;
 font-size: 120%;
 }
-
-.pecan1{
-position: static;
-float: left;
-}
-
-.logo10{
-height: 250px;
-width: 300px;
-float:right;
-top:30px; right:30px;bottom:30px; left:30px;
-}
-
-#pecan3{
-position: static;
-height: 250px;
-width: 300px;
+.logo2{
 float:right;
 }
+
+
+
+
 
 
