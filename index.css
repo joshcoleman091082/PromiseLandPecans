@@ -41,10 +41,11 @@ text-decoration: none;
 }
 .logo{
 height: 250px;
-float: left;
+float: right;
 }
 .logo2{
-float:right;
+float:middle;
+
 }
 
 
