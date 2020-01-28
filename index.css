@@ -9,6 +9,16 @@
 body{
 background-color: grey;
 }
+a:link{
+color:white;
+text-decoration:none;
+
+}
+
+a:hover{
+color:blue
+}
+
 
 .cursive{
 font-weight: bold ;
@@ -44,4 +54,6 @@ down: 50px;
 }
 p{
 color:white;
+text-decoration:none;
+
 }
