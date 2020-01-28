@@ -12,16 +12,24 @@ background-color: grey;
 a:link{
 color:white;
 text-decoration:none;
-
 }
 
+.logo1{
+height: 250px;
+width: 300px;
+float:middle;
+}
 a:hover{
-color:blue
+color:blue;
+text-decoration: none;
 }
 
-
+.logo{
+height: 250px;
+float: left;
+}
 .cursive{
-font-weight: bold ;
+font-weight: bold;
 padding: 50px;
 background-image: url("images/barn1.jpg");
 background-size: contain;
@@ -35,7 +43,6 @@ background-position: center; /* Center the image */
 background-repeat: no-repeat; /* Do not repeat the image */
 left:150px;
 down: 20px;
-
 }
 
 h1{
@@ -55,5 +62,22 @@ down: 50px;
 p{
 color:white;
 text-decoration:none;
+}
 
+.pecan1{
+float: right;
+}
+
+.logo10{
+height: 250px;
+width: 300px;
+float:right;
+top:30px; right:30px;bottom:30px; left:30px;
+}
+
+#pecan3{
+height: 250px;
+width: 300px;
+float:right;
+top:30px; right:30px;bottom:30px; left:30px;
 }
