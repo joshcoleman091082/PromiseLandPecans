@@ -67,7 +67,7 @@ font-size: 120%;
 }
 
 .pecan1{
-float: right;
+float: left;
 }
 
 .logo10{
@@ -78,10 +78,10 @@ top:30px; right:30px;bottom:30px; left:30px;
 }
 
 #pecan3{
+
 height: 250px;
 width: 300px;
 float:right;
-top:30px; right:30px;bottom:30px; left:30px;
 }
 
 .logo15{
