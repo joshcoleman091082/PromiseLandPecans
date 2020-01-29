@@ -1,4 +1,20 @@
-   
+  
+/*<div id="sample"></div>
+#sample{};
+
+<div></div>
+<p class="first"><p>
+.first{*/
+
+
+
+
+
+
+
+
+
+  
 
 a:link{
 text-decoration:none;
@@ -67,6 +83,7 @@ margin-top:;
 margin-right:;
 margin-bottom:;
 margin-left:;
+z-index:1;
 }
 
 #button1{backround-color: rgb(23,52,89);color: black;
@@ -74,31 +91,129 @@ height30px;
 width:300px;
 margin-left:20px;
 }
-
-p{
+#first{
 box-sizing: border-box;
 width:650px;
-height:80px;
+height:200px;
+padding:;
+border:none;
+background-color:blue;
+background-image:url("images/pecan3.jpg");
+background-opacity: 0.5;
+background-repeat:none;
+background-attachment:;
+background-position:center;
+background-size:cover;
+border-radius:;
+border-style:;
+border-width:;
+bordor-color:;
+margin-top:;
+margin-right:600px;
+margin-bottom:10px;
+margin-left:;
+color:white;
+font-size: 25px;
+font-family:serif, sans-serif,monospace;
+font-style:normal;
+font-weight:500;
+z-index:2;
+}
+#firstP{
+margin-bottom:10px;
+margin-left:600px;
+}
+
+#second{
+box-sizing: border-box;
+width:650px;
+height:200px;
 padding:;
 border:none;
 background-color:;
-background-image:url;
-background-repeat:;
+background-image:url("images/pecan6.jpg");
+background-opacity: 0.5;
+background-repeat:none;
 background-attachment:;
-background-position:;
-border-radius:25px;
+background-position:center;
+background-size:cover;
+border-radius:;
 border-style:;
 border-width:;
 bordor-color:;
 margin-top:;
 margin-right:;
-margin-bottom:50px;
-margin-left:500px;
+margin-bottom:10px;
+margin-left:600px;
 color:white;
 font-size: 20px;
 font-family:serif, sans-serif,monospace;
 font-style:normal;
 font-weight:500;
-
-
+z-index:2;
 }
+#secondP{
+margin-right:600px;
+margin-bottom:10px;
+}
+#third{
+box-sizing: border-box;
+width:650px;
+height:200px;
+padding:;
+border:none;
+background-color:blue;
+background-image:url("images/pecan1.jpg");
+background-opacity: 0.5;
+background-repeat:none;
+background-attachment:;
+background-position:center;
+background-size:cover;
+border-radius:;
+border-style:;
+border-width:;
+bordor-color:;
+margin-top:;
+margin-right:600px;
+margin-bottom:10px;
+margin-left:;
+color:black;
+font-size: 25px;
+font-family:serif, sans-serif,monospace;
+font-style:normal;
+font-weight:500;
+z-index:2;
+}
+#thirdP{
+margin-bottom:10px;
+margin-left:600px;
+}
+#forth{
+box-sizing: border-box;
+width:650px;
+height:200px;
+padding:;
+border:none;
+background-color:;
+background-image:url("images/pecan7.jpg");
+background-opacity: 0.5;
+background-repeat:none;
+background-attachment:;
+background-position:center;
+background-size:cover;
+border-radius:;
+border-style:;
+border-width:;
+bordor-color:;
+margin-top:;
+margin-right:;
+margin-bottom:10px;
+margin-left:600px;
+color:white;
+font-size: 25px;
+font-family:serif, sans-serif,monospace;
+font-style:normal;
+font-weight:500;
+z-index:2;
+}
+
