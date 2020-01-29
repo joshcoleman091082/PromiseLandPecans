@@ -1,6 +1,23 @@
    
 
-
+a:link{
+text-decoration:none;
+background-color:none;
+color:white;
+}
+a:visited{
+text-decoration:none;
+}
+a:hover{
+text-decoration:;
+color:;
+}
+a:focus{
+text-decoration:none;
+}
+a:active{
+text-decoration:none;
+}
 
 
 
@@ -52,3 +69,36 @@ margin-bottom:;
 margin-left:;
 }
 
+#button1{backround-color: rgb(23,52,89);color: black;
+height30px;
+width:300px;
+margin-left:20px;
+}
+
+p{
+box-sizing: border-box;
+width:650px;
+height:80px;
+padding:;
+border:none;
+background-color:;
+background-image:url;
+background-repeat:;
+background-attachment:;
+background-position:;
+border-radius:25px;
+border-style:;
+border-width:;
+bordor-color:;
+margin-top:;
+margin-right:;
+margin-bottom:50px;
+margin-left:500px;
+color:white;
+font-size: 20px;
+font-family:serif, sans-serif,monospace;
+font-style:normal;
+font-weight:500;
+
+
+}
